@@ -1,3 +1,13 @@
+HYPERPARAMETERS
+defines model struc learn algo and process
+set before traing begins
+Grid search/randomsearch
+Learnig rate- large/small
+batch size - examples used
+Nos epochs - num of iterations, less underfit, manu overfit
+Regularizatin - inc reg to redu overfit
+
+
 Binary classifc
 Precission accuracy recall
 
