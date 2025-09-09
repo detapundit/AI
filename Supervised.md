@@ -43,4 +43,32 @@ Goal - max reward
 Optimized everytime
 
 **Reinforcement with Human feedback**
+Model response compared with Human response
+Human assess quality of model
 
+Used in Gen AI LLM
+improves model perf
+
+Data collection
+Supervised fine tuning
+Asks human which response they prefer, fine tune model
+build separate reward model
+optimize language model with reward based
+
+
+Model fit bisas variance
+
+FIT - Poor performance then need to look at FIT
+
+Overfit- performs well on training data but not in evaluation
+underfit - poor on training data
+
+Bias - diff between prdicted and actual value
+High bias - does not match training data, underfit
+To fix - more number of features
+
+Variance - How much perf changes if trained on diff data set which has similar distribu
+
+High variance - model is sensitive to change in traing data, overfit
+High bisas - Underfit
+Balanced - lB LV
