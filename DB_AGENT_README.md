@@ -1,3 +1,4 @@
+
 Create a db agent which will perform below functions
 
 - Summarize host, storage, if OS needs update
@@ -7,4 +8,8 @@ Create a db agent which will perform below functions
 - This json data will be converted to SQL format so that model can query this data and provide recommendation. It will maintain this data and refer historical data while recommending
 - Based ob DB version, notify if any critical vulnerability is present
 - Also, provide duplicate and unused index details
+- 
+
+- set python interpreter with ctrl shift p
+- .env outside venv
 - 
